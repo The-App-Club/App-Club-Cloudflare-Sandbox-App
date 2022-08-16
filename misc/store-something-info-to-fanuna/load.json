@@ -1,0 +1,115 @@
+{
+  "description": "Broadcast Nice Web Tips And Tech Info",
+  "rssInfoList": [
+    {
+      "ago": "1 month ago",
+      "categories": ["Playground", "locomotive-scroll", "scroll"],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2022/01/26/background-shift-animation-with-css-blend-modes/",
+      "publishedAt": "2022-01-26 13:45:01",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "Background Shift Animation with CSS Blend Modes"
+    },
+    {
+      "ago": "2 months ago",
+      "categories": [
+        "Playground",
+        "grid",
+        "locomotive-scroll",
+        "page-transition",
+        "scroll"
+      ],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2021/12/21/alternate-column-scroll-animation/",
+      "publishedAt": "2021-12-21 11:22:09",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "Alternate Column Scroll Animation"
+    },
+    {
+      "ago": "3 months ago",
+      "categories": [
+        "Articles",
+        "case-study",
+        "locomotive-scroll",
+        "scroll",
+        "typeface"
+      ],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2021/12/13/case-study-a-unique-website-for-basement-grotesque/",
+      "publishedAt": "2021-12-13 11:56:44",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "Case Study: A Unique Website for Basement Grotesque"
+    },
+    {
+      "ago": "1 year ago",
+      "categories": [
+        "Playground",
+        "inspiration",
+        "locomotive-scroll",
+        "scroll",
+        "typography"
+      ],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2021/01/20/on-scroll-letter-animations/",
+      "publishedAt": "2021-01-20 12:44:28",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "On-Scroll Letter Animations"
+    },
+    {
+      "ago": "1 year ago",
+      "categories": [
+        "Playground",
+        "inspiration",
+        "locomotive-scroll",
+        "parallax",
+        "scroll"
+      ],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2020/12/08/horizontal-smooth-scroll-layouts/",
+      "publishedAt": "2020-12-08 15:41:01",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "Horizontal Smooth Scroll Layouts"
+    },
+    {
+      "ago": "1 year ago",
+      "categories": ["Playground", "intro", "locomotive-scroll", "scroll"],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2020/11/24/image-stack-intro-animation/",
+      "publishedAt": "2020-11-24 16:54:10",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "Image Stack Intro Animation"
+    },
+    {
+      "ago": "1 year ago",
+      "categories": [
+        "Playground",
+        "grid",
+        "inspiration",
+        "locomotive-scroll",
+        "scroll"
+      ],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2020/10/14/scroll-animations-for-image-grids/",
+      "publishedAt": "2020-10-14 17:39:31",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "Scroll Animations for Image Grids"
+    },
+    {
+      "ago": "1 year ago",
+      "categories": [
+        "Playground",
+        "grid",
+        "hover",
+        "locomotive-scroll",
+        "page-transition",
+        "scroll"
+      ],
+      "description": "nothing description",
+      "publicURL": "https://tympanus.net/codrops/2020/08/19/thumbnail-to-full-width-image-animation/",
+      "publishedAt": "2020-08-19 14:00:48",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+      "title": "Thumbnail to Full Width Image Animation"
+    }
+  ],
+  "title": "Codrops"
+}

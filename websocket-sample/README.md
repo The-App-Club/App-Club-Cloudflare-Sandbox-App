@@ -1,0 +1,5 @@
+- Ref
+  - [immer-gifts](https://github.com/mweststrate/immer-gifts)
+  - [cloudflare websockets](https://developers.cloudflare.com/workers/runtime-apis/websockets/)
+  - [websocket template](https://github.com/cloudflare/websocket-template)
+  - [javascript-capture-application-logic-in-pure-functions-to-create-immutable-state](https://egghead.io/lessons/javascript-capture-application-logic-in-pure-functions-to-create-immutable-state)

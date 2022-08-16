@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"{,!(node_modules|dist|build)/**/}*.*\""
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

@@ -1,0 +1,15 @@
+mutation addItem($data: NotifyInput) {
+  createNotify(data: $data) {
+    title
+    description
+    rssInfoList {
+      ago
+      description
+      publicURL
+      publishedAt
+      thumbnail
+      title
+      categories
+    }
+  }
+}

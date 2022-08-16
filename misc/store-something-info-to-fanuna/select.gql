@@ -1,0 +1,17 @@
+# Write your query or mutation here
+query a {
+  getNotifyInfoList {
+    data {
+      title
+      description
+      rssInfoList {
+        title
+        description
+        publicURL
+        thumbnail
+        categories
+        publishedAt
+      }
+    }
+  }
+}

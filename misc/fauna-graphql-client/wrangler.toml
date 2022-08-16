@@ -1,0 +1,12 @@
+name = "fauna-graphql-client"
+type = "javascript"
+zone_id = ""
+account_id = "HERE_YOUR_KEY"
+route = ""
+workers_dev = true
+compatibility_date = "2021-12-26"
+
+[build]
+command = "yarn install && yarn build"
+[build.upload]
+format = "service-worker"

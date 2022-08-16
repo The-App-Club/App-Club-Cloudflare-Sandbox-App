@@ -1,0 +1,32 @@
+# Write your query or mutation here
+mutation addItem {
+  createNotify(
+    data: {
+      title: "something title"
+      description: "this is description"
+      rssInfoList: [
+        {
+          ago: "1 month ago"
+          categories: ["a", "b"]
+          description: "nothing description"
+          publicURL: "https://tympanus.net/codrops/2022/01/26/background-shift-animation-with-css-blend-modes/"
+          publishedAt: "2022-01-26 13:45:01"
+          thumbnail: "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+          title: "Background Shift Animation with CSS Blend Modes"
+        }
+      ]
+    }
+  ) {
+    title
+    description
+    rssInfoList {
+      ago
+      description
+      publicURL
+      publishedAt
+      thumbnail
+      title
+      categories
+    }
+  }
+}

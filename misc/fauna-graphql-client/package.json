@@ -1,0 +1,23 @@
+{
+  "main": "dist/worker.js",
+  "scripts": {
+    "build": "webpack",
+    "format": "prettier --write \"{,!(node_modules|dist|build)/**/}*.*\""
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.0.0",
+    "@types/service-worker-mock": "^2.0.1",
+    "prettier": "^2.3.0",
+    "service-worker-mock": "^2.0.5",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {
+    "@urql/core": "^2.4.3",
+    "es6-promise": "^4.2.8",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.1.0",
+    "isomorphic-fetch": "^3.0.0",
+    "itty-router": "^2.4.8"
+  }
+}

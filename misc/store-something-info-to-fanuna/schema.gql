@@ -1,0 +1,19 @@
+type Rss @embedded {
+  ago: String
+  description: String
+  publicURL: String
+  publishedAt: String
+  thumbnail: String
+  title: String
+  categories: [String]
+}
+
+type Notify {
+  description: String
+  title: String
+  rssInfoList: [Rss]
+}
+
+type Query {
+  getNotifyInfoList: [Notify]
+}

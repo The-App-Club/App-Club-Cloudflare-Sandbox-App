@@ -1,0 +1,7 @@
+name = "websocket-server"
+compatibility_date = "2022-03-31"
+type = "webpack"
+account_id = "HERE_YOUR_KEY"
+workers_dev = true
+route = ""
+zone_id = ""

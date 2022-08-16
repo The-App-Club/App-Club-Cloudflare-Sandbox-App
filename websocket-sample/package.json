@@ -1,0 +1,38 @@
+{
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "start-server": "node -r esm server.js",
+    "format": "prettier --write \"{,!(node_modules|dist|build)/**/}*.*\""
+  },
+  "dependencies": {
+    "immer": "4.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "use-immer": "^0.3.3",
+    "uuid": "^3.3.3",
+    "ws": "^7.1.0"
+  },
+  "devDependencies": {
+    "deepfreeze": "^2.0.0",
+    "esm": "^3.2.25",
+    "node-fetch": "^2.6.0",
+    "prettier": "^1.18.2"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
